@@ -1,0 +1,16 @@
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\instrucoes\obj\Debug\net5.0\instrucoes.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\instrucoes\obj\Debug\net5.0\instrucoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\instrucoes\obj\Debug\net5.0\instrucoes.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\instrucoes\obj\Debug\net5.0\instrucoes.AssemblyInfo.cs
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\instrucoes\obj\Debug\net5.0\instrucoes.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\instrucoes\bin\Debug\net5.0\instrucoes.exe
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\instrucoes\bin\Debug\net5.0\instrucoes.deps.json
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\instrucoes\bin\Debug\net5.0\instrucoes.runtimeconfig.json
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\instrucoes\bin\Debug\net5.0\instrucoes.runtimeconfig.dev.json
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\instrucoes\bin\Debug\net5.0\instrucoes.dll
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\instrucoes\bin\Debug\net5.0\ref\instrucoes.dll
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\instrucoes\bin\Debug\net5.0\instrucoes.pdb
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\instrucoes\obj\Debug\net5.0\instrucoes.dll
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\instrucoes\obj\Debug\net5.0\ref\instrucoes.dll
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\instrucoes\obj\Debug\net5.0\instrucoes.pdb
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\instrucoes\obj\Debug\net5.0\instrucoes.genruntimeconfig.cache

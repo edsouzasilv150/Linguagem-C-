@@ -1,0 +1,16 @@
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.exe
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.deps.json
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.json
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.dev.json
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.dll
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\DigitalInnovationOne\bin\Debug\net5.0\ref\DigitalInnovationOne.dll
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.pdb
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfo.cs
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.dll
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\DigitalInnovationOne\obj\Debug\net5.0\ref\DigitalInnovationOne.dll
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.pdb
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.genruntimeconfig.cache

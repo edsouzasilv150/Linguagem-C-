@@ -1,0 +1,16 @@
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\estruturasdedados\obj\Debug\net5.0\EstruturasDeDados.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\estruturasdedados\obj\Debug\net5.0\EstruturasDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\estruturasdedados\obj\Debug\net5.0\EstruturasDeDados.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\estruturasdedados\obj\Debug\net5.0\EstruturasDeDados.AssemblyInfo.cs
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\estruturasdedados\obj\Debug\net5.0\EstruturasDeDados.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\EstruturasDeDados\bin\Debug\net5.0\EstruturasDeDados.exe
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\EstruturasDeDados\bin\Debug\net5.0\EstruturasDeDados.deps.json
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\EstruturasDeDados\bin\Debug\net5.0\EstruturasDeDados.runtimeconfig.json
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\EstruturasDeDados\bin\Debug\net5.0\EstruturasDeDados.runtimeconfig.dev.json
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\EstruturasDeDados\bin\Debug\net5.0\EstruturasDeDados.dll
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\EstruturasDeDados\bin\Debug\net5.0\ref\EstruturasDeDados.dll
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\EstruturasDeDados\bin\Debug\net5.0\EstruturasDeDados.pdb
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\EstruturasDeDados\obj\Debug\net5.0\EstruturasDeDados.dll
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\EstruturasDeDados\obj\Debug\net5.0\ref\EstruturasDeDados.dll
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\EstruturasDeDados\obj\Debug\net5.0\EstruturasDeDados.pdb
+C:\xampp\htdocs\Projetos\Estudo-C-sharp\EstruturasDeDados\obj\Debug\net5.0\EstruturasDeDados.genruntimeconfig.cache

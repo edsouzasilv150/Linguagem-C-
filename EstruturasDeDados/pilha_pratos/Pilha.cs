@@ -7,8 +7,10 @@ namespace EstruturasDeDados.pilha_pratos {
             primeiro = new Posicao(primeiro, item);
         }
 
-        public object Desempilha() {
-            if(primeiro == null) {
+        public object Desempilha() 
+        {
+            if(primeiro == null) 
+            {
                 throw new InvalidOperationException("A pilha está vazia!");
             }
 
@@ -17,7 +19,8 @@ namespace EstruturasDeDados.pilha_pratos {
             return resultado;
         }
 
-        class Posicao {
+        class Posicao 
+        {
             public Posicao proximo;
             public object item;
             public Posicao(Posicao proximo, object item) {

@@ -1,10 +1,13 @@
 ﻿using System;
 
-namespace instrucoes {
-    class Program {
+namespace instrucoes 
+{
+    class Program 
+    {
 
         //Variaveis:
-        static void Declaracoes() {
+        static void Declaracoes() 
+        {
             int a;
             int b = 2, c = 3;
             const int d = 4;
@@ -13,7 +16,8 @@ namespace instrucoes {
         }
 
         //Estrutura condicional IF:
-        static void InstrucaoIf(string[] args) {
+        static void InstrucaoIf(string[] args) 
+        {
             if(args.Length == 0) {
                 Console.WriteLine("Nenhum argumento");
             } else if(args.Length == 1) {
@@ -50,7 +54,8 @@ namespace instrucoes {
         }
 
         // Instrução Do While:
-        static void InstucaoDo(string[] args) {
+        static void InstucaoDo(string[] args) 
+        {
             string texto;
             do {
                 texto = Console.ReadLine();
@@ -59,25 +64,32 @@ namespace instrucoes {
         }
 
         // Instrução For:
-        static void InstrucaoFor(string[] args) {
-            for (int i = 0; i < args.Length; i++) {
+        static void InstrucaoFor(string[] args) 
+        {
+            for (int i = 0; i < args.Length; i++) 
+            {
                 Console.WriteLine(args[i]);
             }
         }
 
         // Instruçao Foreach:
-        static void InstrucaoForeach(string[] args) {
-            foreach (string s in args) {
+        static void InstrucaoForeach(string[] args) 
+        {
+            foreach (string s in args) 
+            {
                 Console.WriteLine(s);
             }
         }
 
         // Instrução Break:
-        static void InstrucaoBreak(string[] args) {
-            while(true) {
+        static void InstrucaoBreak(string[] args) 
+        {
+            while(true) 
+            {
                 string s = Console.ReadLine();
 
-                if(string.IsNullOrEmpty(s)) {
+                if(string.IsNullOrEmpty(s)) 
+                {
                     break;
                 }
                 Console.WriteLine(s);
@@ -85,9 +97,12 @@ namespace instrucoes {
         }
 
         // instrução Continue:
-        static void InstrucaoContinue(string[] args) {
-            for(int i = 0; i < args.Length; i++) {
-                if(args[i].StartsWith("/")) {
+        static void InstrucaoContinue(string[] args) 
+        {
+            for(int i = 0; i < args.Length; i++) 
+            {
+                if(args[i].StartsWith("/")) 
+                {
                     continue;
                 }
                 Console.WriteLine(args[i]);            
@@ -95,8 +110,10 @@ namespace instrucoes {
         }
 
         // Instrução Return:
-        static void InstrucaoReturn(string[] args) {
-            int Somar(int a, int b) {
+        static void InstrucaoReturn(string[] args) 
+        {
+            int Somar(int a, int b) 
+            {
                 return a + b;
             }
 
@@ -107,36 +124,45 @@ namespace instrucoes {
         }
 
         // Instruções Try, Catch, Finally, Throw:
-        static void InstrucoesTryCatchFinallyThrow(string[] args) {
-            double Dividir(double x, double y) {
+        static void InstrucoesTryCatchFinallyThrow(string[] args) 
+        {
+            double Dividir(double x, double y) 
+            {
                 if(y == 0) 
                     throw new DivideByZeroException();
 
                     return x / y;
                 }
 
-                try {
-                    if(args.Length != 2) {
+                try 
+                {
+                    if(args.Length != 2) 
+                    {
                         throw new InvalidOperationException("Informe 2 números");
                     }
                     double x = double.Parse(args[0]);
                     double y = double.Parse(args[1]);
                     Console.WriteLine(Dividir(x,y));
                 }
-                catch(InvalidOperationException e) {
+                catch(InvalidOperationException e) 
+                {
                     Console.WriteLine(e.Message);
                 }
-                catch (Exception e) {
+                catch (Exception e) 
+                {
                     Console.WriteLine($"Erro genérico: {e.Message}");
                 }
-                finally {
+                finally 
+                {
                     Console.WriteLine("Até breve!");
                 }
             }
 
             // Instrução Using:
-            static void InstrucaoUsing(string[] args) {
-                using(System.IO.TextWriter w = System.IO.File.CreateText("teste.txt")) {
+            static void InstrucaoUsing(string[] args) 
+            {
+                using(System.IO.TextWriter w = System.IO.File.CreateText("teste.txt")) 
+                {
                     w.WriteLine("Line 1");
                     w.WriteLine("Line 2");
                     w.WriteLine("Line 3");

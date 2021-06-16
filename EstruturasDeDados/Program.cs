@@ -2,9 +2,12 @@
 using System;
 using EstruturasDeDados.pilha_pratos;
 
-namespace EstruturasDeDados {
-    class Program {
-        static void Main(string[] args) {
+namespace EstruturasDeDados 
+{
+    class Program 
+    {
+        static void Main(string[] args) 
+        {
             var pratos = new Pilha();
             pratos.Empilha("Prato 01");
             pratos.Empilha("Prato 02");
